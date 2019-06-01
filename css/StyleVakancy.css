@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+
+.navbar{
+    background: #800000;
+}
+.nav-link , .navbar-brand{
+    color: #f4f4f4;
+    cursor: pointer;
+}
+.nav-linck{
+    margin-right: 1em !important;
+}
+.nav-linck:hover{
+    background: #f4f4f4;
+    color: #f97300;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar-toggler{
+    background: #fff !important;
+}
+.bg-dark{
+    background-color: #343a40!important
+}
+.bg-primary{
+    background-color: #343a40!important
+}
+
+
+
+.header{
+    background-image: url('../img/1.jpg');
+    background-attachment: fixed  ;
+background-size:  cover;
+background-position: top  ;
+height: 50vh;
+
+      }
+
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+html , h1 , h2 , h3 , h4 , h5 , h6 , a
+{
+font-family: 'Questrial', regular ;
+
+}
+.abc
+{
+margin-top: 10vh;
+}
+.Vak h1
+{
+text-align: center;
+
+}
